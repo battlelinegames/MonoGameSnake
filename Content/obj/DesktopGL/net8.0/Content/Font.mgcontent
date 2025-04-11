@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Assets/Cursor/MonoGame/Snake/Content/Font.spritefont</SourceFile>
+  <SourceTime>2025-04-11T15:01:11.594814-06:00</SourceTime>
+  <DestFile>D:/Assets/Cursor/MonoGame/Snake/Content/bin/DesktopGL/Content/Font.xnb</DestFile>
+  <DestTime>2025-04-11T15:01:56.5494369-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-04-05T04:10:54-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-04-05T04:10:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
